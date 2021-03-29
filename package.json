@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-firebase-cloud-messaging-http",
+  "version": "1.0.0",
+  "description": "Send firebase notification using http request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedamara/nodejs-firebase-cloud-messaging-http.git"
+  },
+  "author": "Mohamed Amara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohamedamara/nodejs-firebase-cloud-messaging-http/issues"
+  },
+  "homepage": "https://github.com/mohamedamara/nodejs-firebase-cloud-messaging-http#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
